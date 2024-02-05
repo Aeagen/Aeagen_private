@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers==4.35.2
+matplotlib
+einops
+open_clip_torch==2.23.0
+matplotlib
